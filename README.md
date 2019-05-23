@@ -1,4 +1,6 @@
-# Authors
+# Route Trends: Upload, Analyze, Forecast Ridership by Route
+
+### Authors
 
 Creator: Joel Huting\
 Authors: Joey Reid, [Kim Eng Ky](https://github.com/kykimeng), [Eric Lind](https://github.com/elindie)\
