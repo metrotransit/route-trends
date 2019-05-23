@@ -176,7 +176,10 @@ shinyUI(
                                   &subject='user upload STL App Feedback'", "Email Us!"),
                            br(),
                            p('If you are emailing about a problem with the app, please include a screenshot of the error message/the page you are on,
-                             and/or explain how you got to the error.')
+                             and/or explain how you got to the error.'),
+                           br(),
+                           p('Or: review and contribute to the source code!'), 
+                           tags$a(href = "https://github.com/metrotransit/route-trends", "https://github.com/metrotransit/route-trends")
                            # )
                            ))
                     )
