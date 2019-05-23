@@ -19,6 +19,11 @@ descriptions and examples are thus focused on counts of riders, by route, on a m
 basis, matching required submissions to the [National Transit Database](https://www.transit.dot.gov/ntd)
 where many such timeseries can be found.
 
+# Output  
+This code is provided to allow for collaborative improvement and modification of the app, 
+and to enable local implementation. To simply use the route trends app, you can go to 
+[the Metro Transit shinyapps.io page](https://metrotransitmn.shinyapps.io/route-trends/).
+
 # Methods
 ### R, R Studio, and Shiny 
 This repository contains code to be run in [RStudio](https://www.rstudio.com/resources/training/), the IDE built for the statistical language R.
