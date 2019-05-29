@@ -3,7 +3,7 @@
 ### Authors
 
 Creator: Joel Huting\
-Authors: Joey Reid, [Kim Eng Ky](https://github.com/kykimeng), [Eric Lind](https://github.com/elindie)\
+Authors: [Joey Reid](https://github.com/botanize), [Kim Eng Ky](https://github.com/kykimeng), [Eric Lind](https://github.com/elindie)\
 Sponsoring Institution: [Metro Transit](https://www.metrotransit.org), Minneapolis-St. Paul, MN USA
 
 # Purpose
